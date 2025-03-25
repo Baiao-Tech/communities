@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "TechWave",
+    "descricao": "Empresa especializada em soluções de nuvem e transformação digital.",
+    "url_site": "https://www.techwave.com.br",
+    "url_insta": "https://www.instagram.com/techwave"
+  },
+  {
+    "id": 2,
+    "nome": "GreenPixel",
+    "descricao": "Agência criativa focada em design sustentável e branding digital.",
+    "url_site": "https://www.greenpixel.com",
+    "url_insta": "https://www.instagram.com/greenpixel"
+  },
+  {
+    "id": 3,
+    "nome": "DataWise",
+    "descricao": "Consultoria em análise de dados e inteligência artificial para empresas.",
+    "url_site": "https://www.datawise.ai",
+    "url_insta": "https://www.instagram.com/datawise"
+  }
+]
