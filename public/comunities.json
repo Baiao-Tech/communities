@@ -4,20 +4,24 @@
     "nome": "TechWave",
     "descricao": "Empresa especializada em soluções de nuvem e transformação digital.",
     "url_site": "https://www.techwave.com.br",
-    "url_insta": "https://www.instagram.com/techwave"
+    "url_insta": "https://www.instagram.com/techwave",
+    "cover_photo_url": "https://eventosti.dev/assets/images/events/1737551368.png"
   },
   {
     "id": 2,
     "nome": "GreenPixel",
     "descricao": "Agência criativa focada em design sustentável e branding digital.",
     "url_site": "https://www.greenpixel.com",
-    "url_insta": "https://www.instagram.com/greenpixel"
+    "url_insta": "https://www.instagram.com/greenpixel",
+    "cover_photo_url": "https://eventosti.dev/assets/images/events/1737551368.png"
+
   },
   {
     "id": 3,
     "nome": "DataWise",
     "descricao": "Consultoria em análise de dados e inteligência artificial para empresas.",
     "url_site": "https://www.datawise.ai",
-    "url_insta": "https://www.instagram.com/datawise"
+    "url_insta": "https://www.instagram.com/datawise",
+    "cover_photo_url": "https://eventosti.dev/assets/images/events/1737551368.png"
   }
 ]
